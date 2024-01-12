@@ -1,16 +1,32 @@
-This is the SEP3 project "WE/Save". Its main purpose is to encourage its users to conserve water and electric energy in multiple ways.
-It utilises many different technologies, such as:
--gRPC
--Blazor
--REST API
--Java Spring
+# WE/Save
 
-A demo of this project can be found at: 
-https://www.youtube.com/watch?v=TRoCwN00l9M
+WE/Save is an innovative project designed to encourage users to conserve water and electric energy in various ways. This project is the result of a collaboration between five developers, each contributing their unique skills and perspectives.
 
-It was created by the Group 7 of the third-semester Software Technology Engineering A22. The group members are:
--Daniel Lopes Adrião (315274)
--Filip Bartoszewski (315280)
--Iurie Gavriliuc (315182)
--Jakub Nowak (315252)
--Dragos-Ioan Osoianu (315219)
+## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Demo](#demo)
+- [Contributors](#contributors)
+
+## Technologies Used
+
+This project utilizes a wide range of technologies, including:
+
+- gRPC
+- Blazor
+- REST API
+- Java Spring
+
+## Demo
+
+A demo of this project can be found on YouTube: [WE/Save Demo](https://www.youtube.com/watch?v=TRoCwN00l9M)
+
+## Contributors
+
+This project was developed by Group 7 of the third-semester Software Technology Engineering A22. The group members are:
+
+- Daniel Lopes Adrião (315274)
+- Filip Bartoszewski (315280)
+- Iurie Gavriliuc (315182)
+- Jakub Nowak (315252)
+- Dragos-Ioan Osoianu (315219)
